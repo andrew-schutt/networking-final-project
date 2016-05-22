@@ -1,0 +1,11 @@
+Script started on Fri 12 Nov 2010 11:27:26 PM CST
+]0;schutt@dragon: ~[01;32mschutt@dragon[00m:[01;34m~[00m$ python parser.py -s -i test.jpg -To[K octane.cs.uni.edu - [Kw 20
+^Z
+[1]+  Stopped                 python parser.py -s -i test.jpg -T octane.cs.uni.edu -w 20
+]0;schutt@dragon: ~[01;32mschutt@dragon[00m:[01;34m~[00m$ exit
+exit
+There are stopped jobs.
+]0;schutt@dragon: ~[01;32mschutt@dragon[00m:[01;34m~[00m$ exit
+exit
+
+Script done on Fri 12 Nov 2010 11:27:58 PM CST
